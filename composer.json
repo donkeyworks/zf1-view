@@ -1,5 +1,5 @@
 {
-    "name": "diablomedia/zendframework1-view",
+    "name": "donkeyworks/zendframework1-view",
     "description": "Zend Framework 1 View component",
     "type": "library",
     "keywords": [
@@ -12,15 +12,15 @@
     "prefer-stable": true,
     "require": {
         "php": ">=7.0.0",
-        "diablomedia/zendframework1-currency": "^1.0.0",
-        "diablomedia/zendframework1-exception": "^1.0.0",
-        "diablomedia/zendframework1-filter": "^1.0.0",
-        "diablomedia/zendframework1-http": "^1.0.0",
-        "diablomedia/zendframework1-json": "^1.0.0",
-        "diablomedia/zendframework1-loader": "^1.0.0",
-        "diablomedia/zendframework1-locale": "^1.0.0",
-        "diablomedia/zendframework1-registry": "^1.0.0",
-        "diablomedia/zendframework1-translate": "^1.0.0"
+        "donkeyworks/zendframework1-currency": "^1.0.0",
+        "donkeyworks/zendframework1-exception": "^1.0.0",
+        "donkeyworks/zendframework1-filter": "^1.0.0",
+        "donkeyworks/zendframework1-http": "^1.0.0",
+        "donkeyworks/zendframework1-json": "^1.0.0",
+        "donkeyworks/zendframework1-loader": "^1.0.0",
+        "donkeyworks/zendframework1-locale": "^1.0.0",
+        "donkeyworks/zendframework1-registry": "^1.0.0",
+        "donkeyworks/zendframework1-translate": "^1.0.0"
     },
     "autoload": {
         "psr-0": {
@@ -53,13 +53,13 @@
         "style-check": "php-cs-fixer fix --dry-run -vv"
     },
     "suggest": {
-        "diablomedia/zendframework1-view-helper-paginationcontrol": "For the PaginationControl View Helper",
-        "diablomedia/zendframework1-view-helper-navigation": "For the Navigation View Helper",
-        "diablomedia/zendframework1-view-helper-layout": "For the Layout View Helper",
-        "diablomedia/zendframework1-view-helper-action": "For the Action View Helper",
-        "diablomedia/zendframework1-view-helper-partial": "For the Partial and PartialLoop View Helpers",
-        "diablomedia/zendframework1-view-helper-url": "For the Url View Helper",
-        "diablomedia/zendframework1-view-helper-baseurl": "For the BaseUrl View Helper",
+        "donkeyworks/zendframework1-view-helper-paginationcontrol": "For the PaginationControl View Helper",
+        "donkeyworks/zendframework1-view-helper-navigation": "For the Navigation View Helper",
+        "donkeyworks/zendframework1-view-helper-layout": "For the Layout View Helper",
+        "donkeyworks/zendframework1-view-helper-action": "For the Action View Helper",
+        "donkeyworks/zendframework1-view-helper-partial": "For the Partial and PartialLoop View Helpers",
+        "donkeyworks/zendframework1-view-helper-url": "For the Url View Helper",
+        "donkeyworks/zendframework1-view-helper-baseurl": "For the BaseUrl View Helper",
         "ext-filter": "Used in the HeadScript View Helper"
     }
 }
