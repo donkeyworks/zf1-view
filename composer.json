@@ -53,7 +53,7 @@
         "style-check": "php-cs-fixer fix --dry-run -vv"
     },
     "suggest": {
-        "donkeyworks/zendframework1-view-helper-paginationcontrol": "For the PaginationControl View Helper",
+        "donkeyworks/zendframework1-view-helper-pagination": "For the PaginationControl View Helper",
         "donkeyworks/zendframework1-view-helper-navigation": "For the Navigation View Helper",
         "donkeyworks/zendframework1-view-helper-layout": "For the Layout View Helper",
         "donkeyworks/zendframework1-view-helper-action": "For the Action View Helper",
